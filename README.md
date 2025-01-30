@@ -1,13 +1,13 @@
-# 𝗜𝗦𝗧𝗞𝗛𝗔𝗥 𝗕𝗔𝗡𝗔𝗟𝗟 
+# 𝗥𝗔𝗗𝗛𝗘 𝗕𝗔𝗡𝗔𝗟𝗟 
 <h1 align="center"
  
 
 <h1 align="center"
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width==620&lines=🍁+🇮🇳+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗜𝗦𝗧𝗞𝗛𝗔𝗥+𝗞𝗜𝗡𝗚+𝗕𝗜𝗛𝗔𝗥+🇮🇳+🍁"></b></h3>"
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width==620&lines=🍁+🇮🇳+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗥𝗔𝗗𝗛𝗘+𝗕𝗜𝗛𝗔𝗥+🇮🇳+🍁"></b></h3>"
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>𝐓ᴇᴀᴍ 𝐏ᴜʀᴠɪ 𝐁ᴏᴛs</b></h1>
+<h1 align="center"><b>𝐁ᴏᴛᴄʜᴀᴍʙᴇʀ 𝐁ᴏᴛs</b></h1>
 <p align="center"><a href="https://ll_THUNDER_lll"><img src="https://files.catbox.moe/aoueoz.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -36,4 +36,4 @@
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝖳HE PURVI MUSIC™](https://github.com/TEAMPURVI) ғᴏʀ [𝖳HE PURVI MUSIC™](https://github.com/TEAMPURVI/PURVI_MUSIC) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝖳HE RADHE MUSIC™](https://github.com/TEAMPURVI) ғᴏʀ [𝖳HE PURVI MUSIC™](https://github.com/TEAMPURVI/PURVI_MUSIC) </b>
