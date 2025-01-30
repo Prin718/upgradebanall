@@ -1,7 +1,7 @@
 {
-    "name": "ɪsᴛᴋʜᴀʀ ʙᴀɴ ᴀʟʟ",
+    "name": "ʀᴀᴅʜᴇ ʙᴀɴ ᴀʟʟ",
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
-    "logo": "https://graph.org/file/bbae2c50b58056ecc4df7.jpg",
+    "logo": "https://envs.sh/ODk.jpg",
     "keywords": ["ᴛᴇᴀᴍ-ᴘᴜʀᴠɪ", "ʙᴀɴ-ᴀʟʟ"],
     "repository": "https://github.com/TEAMPURVI/ALPHA_BANALL",
     "stack": "container",
@@ -11,7 +11,7 @@
             "required": true
         },
         "OWNER": {
-            "description": "ᴛʏᴘᴇ ʏᴏᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @ ll_THUNDER_lll",
+            "description": "ᴛʏᴘᴇ ʏᴏᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @ ll_RADHE7_ll",
             "required": true,
             "value": ""
         },
