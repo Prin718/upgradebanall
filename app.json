@@ -2,8 +2,8 @@
     "name": "ʀᴀᴅʜᴇ ʙᴀɴ ᴀʟʟ",
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
     "logo": "https://envs.sh/ODk.jpg",
-    "keywords": ["ᴛᴇᴀᴍ-ᴘᴜʀᴠɪ", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/TEAMPURVI/ALPHA_BANALL",
+    "keywords": ["ᴛᴇᴀᴍ-ʀᴀᴅʜᴇ", "ʙᴀɴ-ᴀʟʟ"],
+    "repository": "https://github.com/live9807/radhexbanall",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
