@@ -47,7 +47,7 @@ async def start_command(client, message: Message):
 •──────────────────────•**""",
   reply_markup=InlineKeyboardMarkup([
             [InlineKeyboardButton("✙ ʌᴅᴅ ϻє ɪη ʏσυʀ ɢʀσυᴘ ✙", url=f"https://t.me/{client.me.username}?startgroup=true")],
-            [InlineKeyboardButton("˹ sυᴘᴘσʀᴛ ˼", url="https://t.me/BOT_SUPPORT_GROUP7"),
+            [InlineKeyboardButton("˹ ᴏᴡɴᴇʀ ˼", url="https://t.me/{OWNER}"),
              InlineKeyboardButton("˹ υᴘᴅᴧᴛєs ˼", url="https://t.me/ll_BOTCHAMBER_ll")],
             [InlineKeyboardButton("˹ ᴧʟʟ ʙσᴛ's ˼", url="https://t.me/RADHE_ALLBOT/5"),
              InlineKeyboardButton("˹ ᴍᴜsɪᴄ ʙᴏᴛ ˼", url="https://t.me/SanataniiMusicBot")]
