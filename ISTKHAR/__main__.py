@@ -33,7 +33,7 @@ async def start_command(client, message: Message):
   await message.reply_photo(
                             photo = f"https://envs.sh/ODk.jpg",
                             caption = f"""**┌────── ˹ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ˼──────•
-┆✦ » ʜᴇʏ {user.mention}
+┆✦ » ʜᴇʏ {message.from_user.mention}
 └──────────────────────•
 
 ✦ »  ɪ'ᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ʙᴀɴᴀʟʟ ʙᴏᴛ.
