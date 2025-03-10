@@ -43,17 +43,16 @@ async def start_command(client, message: Message):
 ✦ » ᴄʜᴇᴄᴋ ᴍʏ ᴀʙɪʟɪᴛʏ, ɢɪᴠᴇ ᴍᴇ ғᴜʟʟ ᴘᴏᴡᴇʀs ᴀɴᴅ ᴛʏᴘᴇ /banall ᴛᴏ ꜱᴇᴇ ᴍᴀɢɪᴄ ɪɴ ɢʀᴏᴜᴘ. 
 
 •──────────────────────•
-❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ  ➪ [ ˹ ʙᴏᴛ ᴄʜᴀᴍʙᴇʀ ˼ ] ( https://t.me/ll_BOTCHAMBER_ll) 
+❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ  ➪ [˹ ʙᴏᴛ ᴄʜᴀᴍʙᴇʀ ˼] (https://t.me/ll_BOTCHAMBER_ll) 
 •──────────────────────•**""",
-  reply_markup=InlineKeyboardMarkup(
-            [
-                [InlineKeyboardButton("ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER}")],  # पहला बटन
-                [InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ll_BOTCHAMBER_ll")],  # दूसरा बटन
-                [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/BOT_SUPPORT_GROUP7")],  # तीसरा बटन
-                [InlineKeyboardButton("Add Me To Group", url="https://t.me/{client.me.username}?startgroup=true")]  # चौथा बटन
-            ]
-        )
-  )
+  reply_markup=InlineKeyboardMarkup([
+            [InlineKeyboardButton("✙ ʌᴅᴅ ϻє ɪη ʏσυʀ ɢʀσυᴘ ✙", url=f"https://t.me/{client.me.username}?startgroup=true")],
+            [InlineKeyboardButton("˹ sυᴘᴘσʀᴛ ˼", url="https://t.me/BOT_SUPPORT_GROUP7"),
+             InlineKeyboardButton("˹ υᴘᴅᴧᴛєs ˼", url="https://t.me/ll_BOTCHAMBER_ll")],
+            [InlineKeyboardButton("˹ ᴧʟʟ ʙσᴛ's ˼", url="https://t.me/RADHE_ALLBOT/5"),
+             InlineKeyboardButton("˹ ᴍᴜsɪᴄ ʙᴏᴛ ˼", url="https://t.me/SanataniiMusicBot")]
+        ])
+    )
 
 @app.on_message(
 filters.command("banall") 
