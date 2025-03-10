@@ -47,13 +47,13 @@ async def start_command(client, message: Message):
 •──────────────────────•**""",
   reply_markup=InlineKeyboardMarkup(
             [
-                [
-                    InlineKeyboardButton(
-                        "ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER}")
-                ]       
-           ]
-      )
-)
+                [InlineKeyboardButton("ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER}")],  # पहला बटन
+                [InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ll_BOTCHAMBER_ll")],  # दूसरा बटन
+                [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/BOT_SUPPORT_GROUP7")],  # तीसरा बटन
+                [InlineKeyboardButton("Add Me To Group", url="https://t.me/{client.me.username}?startgroup=true")]  # चौथा बटन
+            ]
+        )
+  )
 
 @app.on_message(
 filters.command("banall") 
